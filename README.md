@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Maszala
-- 👀 I’m interested in computer languages including python.
-- 🌱 I’m currently learning databases with mySQL.
-- 💞️ I’m looking to collaborate on on GITUB to deepen my knowledge with programming languages.
-- 📫 How to reach me ...
+## Hey there ! 
 
-<!---
-Maszala/Maszala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+>With an education in the field of technology and my diplomas in my pocket, I reconverted in the web development which will be my first step to reach my final goal: 
+to work in the world of multimedia

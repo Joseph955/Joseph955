@@ -2,3 +2,6 @@
 
 >With an education in the field of technology and my diplomas in my pocket, I reconverted in the web development which will be my first step to reach my final goal: 
 to work in the world of multimedia
+>
+>
+>I hope you enjoy your visit !

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lapertjoseph@gmail.com**
 
-- ⚡ Fun fact :- Food and Coding are the reasons to live.
+- ⚡ Fun fact : Food and Coding are the reasons to live.
 
 <br>
 

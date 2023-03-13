@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joseph Lapert</h1>
-<h3 align="center">Student at EFREI, Villejuif🌟.</h3>
+<h3 align="center">Student at Sup de Vinci, Courbevoie🌟.</h3>
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning DevOps and programming languages
 
 - 📫 How to reach me **lapertjoseph@gmail.com**
 
